@@ -20,8 +20,6 @@
 <img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />
 
 ### 
-- 🔭 I’m currently working on my Portfolio :grin:
-- 🌱 I’m currently learning Java :wink:
-- 💬 Ask me about anything, I am happy to help :smile:
-
-
+- 🔭 Atualmente estou trabalhando no meu portfólio :grin:
+- 🌱 Atualmente estou aprendendo Java :wink:
+- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar :smile:
