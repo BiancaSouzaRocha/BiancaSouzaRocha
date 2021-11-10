@@ -1,8 +1,27 @@
-### Olá, bem-vindo ao meu perfil! 👋
+
+  <h1 align="center"><b>Olá, eu sou a Bianca! 👋🏾 👩🏾‍💻</b></h1>
+</p>
+
+<p>
+  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
+</p>
 
 
+<p align="center">
+<br>
+<a href="https://www.facebook.com/bbiancarocha"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.instagram.com/b.rochaff"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/biancasouzarocha/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:biarochha90@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/biancasouzarocha/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:biarochha90@gmail.com)](mailto:biarochha90@gmail.com)
+
+<br>
+
+<img align="right" height="270px" alt="GIF" src="https://giphy.com/gifs/cartoon-network-emea-internet-wifi-ordenador-eurFuCy8b1t6mwYtfo" />
+
+### I am a Systems Engineer Specialist at Infosys
+- 🔭 I’m currently working on my Portfolio :grin:
+- 🌱 I’m currently learning Java :wink:
+- 💬 Ask me about anything, I am happy to help :smile:
 
 
