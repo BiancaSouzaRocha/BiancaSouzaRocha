@@ -19,7 +19,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://giphy.com/gifs/cartoon-network-emea-internet-wifi-ordenador-eurFuCy8b1t6mwYtfo" />
 
-### I am a Systems Engineer Specialist at Infosys
+### 
 - 🔭 I’m currently working on my Portfolio :grin:
 - 🌱 I’m currently learning Java :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
