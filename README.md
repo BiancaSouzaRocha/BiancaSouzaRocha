@@ -1,5 +1,5 @@
 
-  <h1 align="center"><b>Olá, eu sou a Bianca! 👋🏾 👩🏾‍💻</b></h1>
+  <h1 align="center"><b>Hi! I am Bianca! 👋🏾 👩🏾‍💻</b></h1>
 </p>
 
 <p>
@@ -18,6 +18,6 @@
 <img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />
 
 ### 
-- 🔭 Trabalhando no meu portfólio :grin:
-- 🌱 Estou aprendendo Java :wink:
-- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar :smile:
+- 🔭 Working on my portfolio :grin:
+- 🌱 I am learning Java :wink:
+- 💬 Ask me about anything, I'm happy to help. :smile:
