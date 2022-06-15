@@ -19,5 +19,4 @@
 
 ### 
 - 🔭 I’m working on my portfolio :grin:
-- 🌱 I'm learning Java :wink:
 - 💬 Ask me about anything, I'm happy to help. :smile:
